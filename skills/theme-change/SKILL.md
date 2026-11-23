@@ -24,9 +24,9 @@ The theme is defined in `apps/core/styles/tailwind.css` with CSS custom properti
 
 The file contains three main sections:
 
-1. **`:root`** - Light mode colors (lines 73-106)
-2. **`.dark`** - Dark mode colors (lines 110-142)
-3. **`@theme inline`** - Tailwind color mappings (lines 33-69)
+1. **`:root`** - Light mode colors
+2. **`.dark`** - Dark mode colors
+3. **`@theme inline`** - Tailwind color mappings
 
 ## Available Color Variables
 

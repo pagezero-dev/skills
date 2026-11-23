@@ -8,28 +8,29 @@ PageZERO agent skills. Install with [vercel-labs/skills](https://github.com/verc
 | `pr-merge` | Squash-merge current branch PR after checks pass |
 | `component-create` | UI component scaffold (PageZERO layout) |
 | `theme-change` | shadcn/ui OKLCH theme in `apps/core/styles/tailwind.css` |
+| `pagezero-upgrade` | Upgrade a PageZERO-based project to the latest starter |
 
 ## Install
 
 ```bash
 # project
-npx skills add pagezero-dev/skills
+bunx skills add pagezero-dev/skills
 
 # global
-npx skills add pagezero-dev/skills -g
+bunx skills add pagezero-dev/skills -g
 ```
 
 ```bash
 # local clone
-npx skills add .
+bunx skills add .
 ```
 
 ## Update
 
 ```bash
-npx skills update        # all
-npx skills update -p     # project only
-npx skills update -g     # global only
+bunx skills update        # all
+bunx skills update -p     # project only
+bunx skills update -g     # global only
 ```
 
 MIT — [LICENSE](LICENSE)
