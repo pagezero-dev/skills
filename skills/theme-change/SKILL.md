@@ -1,5 +1,5 @@
 ---
-name: change-theme
+name: theme-change
 description: >-
   Updates the shadcn/ui theme by editing OKLCH CSS custom properties in
   apps/core/styles/tailwind.css. Use when the user wants to change colors,

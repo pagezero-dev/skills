@@ -1,5 +1,5 @@
 ---
-name: create-component
+name: component-create
 description: >-
   Creates a new UI component with implementation, index, tests, and Storybook
   stories following PageZERO conventions. Use when adding a UI component or when

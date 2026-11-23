@@ -1,5 +1,5 @@
 ---
-name: create-pr
+name: pr-create
 description: >-
   Create GitHub pull requests following conventional naming patterns, creating a
   branch if needed. Use when the user asks to create or open a PR, submit

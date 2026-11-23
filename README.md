@@ -4,11 +4,10 @@ PageZERO agent skills. Install with [vercel-labs/skills](https://github.com/verc
 
 | Skill | Description |
 |-------|-------------|
-| `create-pr` | GitHub PRs with conventional naming |
-| `merge-pr` | Squash-merge current branch PR after checks pass |
-| `create-component` | UI component scaffold (PageZERO layout) |
-| `change-theme` | shadcn/ui OKLCH theme in `apps/core/styles/tailwind.css` |
-| `handover` | Copy-pasteable chat context summary for a new agent |
+| `pr-create` | GitHub PRs with conventional naming |
+| `pr-merge` | Squash-merge current branch PR after checks pass |
+| `component-create` | UI component scaffold (PageZERO layout) |
+| `theme-change` | shadcn/ui OKLCH theme in `apps/core/styles/tailwind.css` |
 
 ## Install
 

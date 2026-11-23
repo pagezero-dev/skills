@@ -1,5 +1,5 @@
 ---
-name: merge-pr
+name: pr-merge
 description: >-
   Squash-merge the open pull request for the current branch and clean up the
   branch, only when that PR exists and all checks pass. Use when the user asks
